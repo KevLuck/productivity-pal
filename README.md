@@ -6,7 +6,7 @@ Productivity-PAL is a full stack app that is a simple digital todo list. With th
 
 ## Installation
 
-Please visit the deployed app [here](https://stark-crag-81936-8a96c55cd3fa.herokuapp.com/) and visit the repo [here](https://github.com/aimeedarling/productivity-pal/tree/aimee).
+Please visit the deployed app [here]and visit the repo [here]
 
 ## Usage
 
