@@ -6,13 +6,14 @@ Productivity-PAL is a full stack app that is a simple digital todo list. With th
 
 ## Installation
 
-Please visit the deployed app [here]and visit the repo [here]
+Heroku : https://mighty-waters-91109-7eaa4c5f0caf.herokuapp.com/
+
+GitHub : https://github.com/KevLuck/productivity-pal
+
 
 ## Usage
 
-<img width="918" alt="image" src="https://github.com/aimeedarling/productivity-pal/assets/127796444/4ec86650-1b23-46b4-8acf-06e42d49628d">
-
-Simply visit [app](https://stark-crag-81936-8a96c55cd3fa.herokuapp.com/), completed the sign up form or log in. You will then be directed to your personal todo list where you can create tasks, update from "todo" to "In Progress" to "Completed" and then delete task that you no longer need to keep track of.
+Simply visit, completed the sign up form or log in. You will then be directed to your personal todo list where you can create tasks, update from "todo" to "In Progress" to "Completed" and then delete task that you no longer need to keep track of.
 
 ## Credits
 
